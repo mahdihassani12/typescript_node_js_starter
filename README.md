@@ -1,6 +1,6 @@
-# Getting start with our mern stack project.
+# This is just a demo project on how to start a typescript node js project
 
-### stacks: React, Node, Express, Mongodb
-### Creating some components on front to add posts.
-### Creating some routes on backend to store the posts.
-### Finally the crud application will be added here.
+### stacks: React, Node, Express, Mongodb, Typescript
+### npm i for installing node modules
+### npm run build: for compiling typescript files
+### npm start for: for runing node project 
